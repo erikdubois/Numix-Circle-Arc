@@ -1,3 +1,3 @@
-# Numix and Arc folder mixed
+# Numix and Arc folders mixed
 
 
